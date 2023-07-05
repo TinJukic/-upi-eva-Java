@@ -1,5 +1,4 @@
-# Cupiceva-Java
-Odabrana poglavlja razvoja programske potpore 1
+# Odabrana-poglavlja-razvoja-programske-potpore-1
 
 Sadrzane su sve zadace s kolegija "Odabrana poglavlja razvoja programske potpore 1" (poznato i kao "Cupiceva Java") na FER-u kod profesora Marka Cupica.
 Sve su zadace rjesavane u programskom jeziku Java i spremljene u obliku Maven projekata u zasebne zip arhive.
