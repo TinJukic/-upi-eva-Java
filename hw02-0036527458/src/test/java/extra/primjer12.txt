@@ -1,0 +1,3 @@
+{$ FOR i @function 10 $}
+	Ispis
+{$END$}

@@ -1,0 +1,3 @@
+Proba teksta za ispis na zaslon.
+Ima vise redaka.
+Cak 3!
